@@ -95,15 +95,18 @@
             <a
                 href="https://www.youtube.com/watch?v=V1R3gxuAQbc"
                 target="_blank"><img
-                    src="https://i.gyazo.com/02aec64c723ac4018cc49059710b2fc4.jpg" /></a>
+                    src="https://i.gyazo.com/02aec64c723ac4018cc49059710b2fc4.jpg"
+                    alt="" /></a>
             <a
                 href="https://www.youtube.com/watch?v=MnBeNOC-l6o"
                 target="_blank"><img
-                    src="https://i.gyazo.com/603c1e97da77418edd5b05de860de02a.jpg" /></a>
+                    src="https://i.gyazo.com/603c1e97da77418edd5b05de860de02a.jpg"
+                    alt="" /></a>
             <a
                 href="https://www.youtube.com/watch?v=lvE_vcUfc1g"
                 target="_blank"><img
-                    src="https://i.gyazo.com/85aac511c6bf0ed89599a813d0495d9a.jpg" /></a>
+                    src="https://i.gyazo.com/85aac511c6bf0ed89599a813d0495d9a.jpg"
+                    alt="" /></a>
         </div>
         <a
             href="https://www.youtube.com/channel/UCu2woK-ifovek0Yps5aGQHA?view_as=subscriber"
