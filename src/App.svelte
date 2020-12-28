@@ -1,6 +1,4 @@
 <style>
-    @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=M+PLUS+Rounded+1c&display=swap");
-
     .header {
         padding: 12% 10%;
         background: linear-gradient(
