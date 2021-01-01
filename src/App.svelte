@@ -111,6 +111,6 @@
             target="_blank">More works</a>
     </div>
     <div class="footer">
-        <p>&copy; surume 2020 / Design by Minato minami</p>
+        <p>&copy; surume 2020 - 2021 / Design by Minato minami</p>
     </div>
 </main>
