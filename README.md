@@ -5,5 +5,5 @@ Surumeのサイトです．
 
 # ライセンス
 
-Sources: MPL-2.0
+Sources: MPL-2.0    
 Images and Movies: All rights reserved
